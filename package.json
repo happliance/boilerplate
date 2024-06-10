@@ -1,0 +1,13 @@
+{
+    "name": "happliance-app",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "happy dev",
+        "build": "happly build",
+        "postinstall": "happly prepare"
+    },
+    "dependencies": {
+        "happliance": "^0.0.1"
+    }
+}
