@@ -1,0 +1,6 @@
+{
+    "name": "default",
+    "defaultDir": "happliance-app",
+    "url": "https://happliance.com",
+    "tar": "https://codeload.github.com/happliance/boilerplate/tar.gz/refs/heads/default"
+}
